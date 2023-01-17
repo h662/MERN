@@ -53,3 +53,11 @@ npm i express
 - get
 - post
   Postman
+
+6. nodemon
+
+js 파일을 수정하면 자동으로 서버 재시작
+
+```
+npm i -D nodemon
+```
