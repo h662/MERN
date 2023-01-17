@@ -29,3 +29,19 @@ git branch -M main
 ```
 git remote add origin https://github.com/h662/MERN.git **[깃허브주소]
 ```
+
+```
+git push -u origin main
+```
+
+이후에는 작업할 때마다 add, commit, push를 해주면 된다.
+
+4. express 셋팅
+
+```
+npm init
+```
+
+```
+npm i express
+```
