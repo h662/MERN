@@ -45,3 +45,11 @@ npm init
 ```
 npm i express
 ```
+
+5. express 사용해보기
+
+   REST API
+
+- get
+- post
+  Postman
